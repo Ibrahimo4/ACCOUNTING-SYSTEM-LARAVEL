@@ -1,1 +1,17 @@
-# ACCOUNTING-SYSTEM-LARAVEL
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٩٤٤](https://user-images.githubusercontent.com/79579059/229316611-ce89343d-704b-4e0d-b374-b1cccd8f84fd.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٤٠٢١](https://user-images.githubusercontent.com/79579059/229316544-cf5e8dbc-fb91-4209-a90d-b9e7ddb2c609.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٤١١١](https://user-images.githubusercontent.com/79579059/229316549-50c83893-a204-4960-ba08-8356189fb506.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٤٢٠٩](https://user-images.githubusercontent.com/79579059/229316550-f018a1ac-b355-4466-b9da-8c167bc06e5d.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٨٤١](https://user-images.githubusercontent.com/79579059/229316552-b62138a4-fa68-4a80-80c7-4e94d3ed2b2b.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٨٠٩](https://user-images.githubusercontent.com/79579059/229316555-7857d9a7-4c9e-4509-a711-674e17d703fe.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٧٤٣](https://user-images.githubusercontent.com/79579059/229316566-eaac80d9-81df-42eb-a23c-b76a95b8dc2e.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٧٢٢](https://user-images.githubusercontent.com/79579059/229316572-596c9d20-38e9-43ae-84d0-1ee1d66e0a90.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٦٥٩](https://user-images.githubusercontent.com/79579059/229316576-d9529b8c-c68b-4473-a557-3eccdf509cc3.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٦٢٩](https://user-images.githubusercontent.com/79579059/229316588-3992cdb3-ca18-490e-8669-2ff215c20615.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٦١١](https://user-images.githubusercontent.com/79579059/229316591-f740dad6-2fb0-4839-894f-b47d48a0b998.jpg)
+![Screenshot_٢٠٢٣-٠٣-٠٢-٢١-٣٤-١٨-٧٥٨_com opera browser](https://user-images.githubusercontent.com/79579059/229316594-f499bb73-2699-46f1-bdf3-e08572cf5327.jpg)
+![Screenshot_٢٠٢٣-٠٣-٠٢-٢١-٣٤-٣٢-٦٧٠_com opera browser](https://user-images.githubusercontent.com/79579059/229316596-c740b74d-e3cf-4879-910b-fdc315e83508.jpg)
+![Screenshot_٢٠٢٣-٠٣-٠٢-٢١-٢٦-٣٨-٩١٥_com opera browser](https://user-images.githubusercontent.com/79579059/229316599-9c4a43c1-f03b-4446-b6ad-df910c1a00d6.jpg)
+![IMG_٢٠٢٣٠٣٠٢_٢١٣٥٤٣](https://user-images.githubusercontent.com/79579059/229316611-ce89343d-704b-4e0d-b374-b1cccd8f84fd.jpg)
+# Account-and-pos-management
+Accounting and pos management using multi language
